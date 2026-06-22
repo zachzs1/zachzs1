@@ -2,7 +2,7 @@
 
 Hi, I'm a CS graduate focused on applied machine learning, computer vision, and AI developer tooling. 
 
-## Projects 
+## Some of my projects 
 
 ### Motor Imagery BCI Game Suite
 
@@ -16,7 +16,7 @@ Computer vision and ML pipeline for classifying NFL play outcomes based on game 
 My contributions: video derived feature engineering, YOLO processing, model training/evalutation, bounding box calculation and tracking
 Repo: []
 
-### Human ACtivity Recognition Model 
+### Human Activity Recognition Model 
 
 Deep learning time series classifier using accelerometer and gyroscopic data from mobile phones. Identifies whether someone is walking, resting, driving, or running. 
 My contributions: CNN/LSTM/attention model, class balancing, predicition smoothing, evaluation 
